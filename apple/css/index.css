@@ -1,0 +1,457 @@
+body
+{
+    margin-top:0;
+    margin-left: 0;
+    font-family:-apple-system;
+    margin-right:0;
+    background-color:rgb(251,251,253);
+}
+
+ul
+{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+#alltop
+{
+    width: 100%;
+    height:5.5em;
+    position:fixed;
+    z-index:1;
+}
+
+
+#top
+{
+    width: 100%;
+    height: 2em;
+    background: rgb(68,68,68);
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+#top2
+{
+    width: 100%;
+    height: 2.5em;
+    background: rgb(49,49,50);
+    margin:0;
+    border:0;
+    padding:0;
+
+}
+
+#container
+{
+    background: rgb(68,68,68);
+    width: 100%;
+    color:rgb(161,161,163);
+    height:2em;
+    line-height: 3em;
+    text-align:right;
+    margin-left: -30%;
+    font-size:11px;
+}
+#content
+{
+    width: 100%;
+    background:rgb(49,49,50);
+    height:2em;
+    line-height: 2em;
+}
+
+
+
+#contentults
+{
+    width: 100%;
+    font-size:12px;
+    height:2em;
+    line-height: 3.5em;
+    float:left;
+    color:white;
+    margin-left: 22%;
+
+}
+
+#list1 ul li
+{
+    float:left;
+    margin-left:3%;
+}
+
+#give
+{
+    width: 100%;
+    height:2.5rem;
+    background-color:rgb(245,245,247);
+    line-height:2.5rem;
+    font-size:13px;
+    text-align:center;
+    position:sticky;
+}
+
+#give-online
+{
+    color: cadetblue;
+}
+
+#iPhone
+{
+    text-align:center;
+    width: 100%;
+    height:30rem;
+    background-color:rgb(251,251,253);
+}
+#iPhone-top
+{
+    margin-top:3rem;
+    font-size:65px;
+
+}
+
+#iPhone-top2
+{
+    font-size:35px;
+}
+
+#iPhone-top3
+{
+    margin-top:1rem;
+    color: cadetblue;
+    font-size:20px;
+}
+
+#iPhone-img
+{
+    width: 100%;
+}
+
+#iPhonese
+{
+    text-align:center;
+    width: 100%;
+    height:30rem;
+    background-color:rgb(251,251,253);
+}
+#iPhonese-top
+{
+    margin-top:3rem;
+    font-size:65px;
+
+}
+
+#iPhonese-top2
+{
+    font-size:35px;
+}
+
+#iPhonese-top3
+{
+    margin-top:1rem;
+    color: cadetblue;
+    font-size:20px;
+}
+
+#iPhonese-img
+{
+    width: 100%;
+}
+
+#applewatch
+{
+    text-align:center;
+    width: 100%;
+    height:30rem;
+    background-color:rgb(251,251,253);
+}
+#applewatch-top
+{
+    margin-top:3rem;
+    font-size:60px;
+
+}
+
+#applewatch-top2
+{
+    font-size:35px;
+}
+
+#applewatch-top3
+{
+    margin-top:1rem;
+    color: cadetblue;
+    font-size:20px;
+}
+
+#applewatch-img
+{
+    width: 100%;
+}
+
+#big
+{
+    width: 100%;
+    height:36rem;
+}
+
+#wwdc
+{
+    float:left;
+    margin-left:1%;
+    width: 48.5%;
+    height:36rem;
+    background-color:black;
+    text-align:center;
+
+}
+
+#wwdc-text
+{
+
+    color:white;
+    position:relative;
+    z-index: 0;
+    width:100%;
+    margin-top:-15%;
+    font-size:25px;
+    color:rgb(198,225,230);
+}
+
+#wwdc-img
+{
+    position:relative;
+    z-index:0;
+    width:100%;
+}
+
+
+
+#ipadair
+{
+    float:right;
+    margin-right:1%;
+    width: 48.5%;
+    height:36rem;
+    background-color:black;
+    text-align:center;
+}
+
+#ipadair-text
+{
+    width: 100%;
+    height:7rem;
+    line-height:9rem;
+    font-size:50px;
+    color:white;
+}
+
+#ipadair-text2
+{
+    width: 100%;
+    font-size:25px;
+    color:white;
+}
+
+#ipadair-text3
+{
+    color: cadetblue;
+    font-size:20px;
+}
+
+
+#airimg
+{
+
+}
+
+#display
+{
+    float:left;
+    margin-left:1%;
+    width: 48.5%;
+    height:36rem;
+    background-color:rgb(251,251,253);
+    text-align:center;
+}
+
+#display-text
+{
+    width: 100%;
+    height:7rem;
+    line-height:9rem;
+    font-size:50px;
+    color:black;
+}
+
+
+#display-text2
+{
+    width: 100%;
+    font-size:35px;
+    color:black;
+}
+
+#display-text3
+{
+    color: cadetblue;
+    font-size:20px;
+}
+
+#mac
+{
+    float:left;
+    margin-left:1%;
+    width: 48.5%;
+    height:36rem;
+    background-color:rgb(251,251,253);
+    text-align:center;
+}
+
+#mac-text
+{
+    width: 100%;
+    height:7rem;
+    line-height:9rem;
+    font-size:50px;
+    color:black;
+}
+
+
+#mac-text2
+{
+    width: 100%;
+    font-size:35px;
+    color:black;
+}
+
+#mac-text3
+{
+    color: cadetblue;
+    font-size:20px;
+}
+
+#AirPods
+{
+    float:left;
+    margin-left:1%;
+    width: 48.5%;
+    height:36rem;
+    background-color:rgb(251,251,253);
+    text-align:center;
+}
+
+#AirPods-text
+{
+    width: 100%;
+    height:3rem;
+    line-height:3rem;
+    font-size:50px;
+    color:black;
+}
+
+
+#AirPods-text2
+{
+    width: 100%;
+    font-size:35px;
+    color:black;
+}
+
+#AirPods-text3
+{
+    color: cadetblue;
+    font-size:20px;
+}
+
+
+#mini
+{
+    float:left;
+    margin-left:1%;
+    width: 48.5%;
+    height:36rem;
+    background-color:rgb(251,251,253);
+    text-align:center;
+}
+
+#mini-text
+{
+    width: 100%;
+    height:7rem;
+    line-height:10rem;
+    font-size:50px;
+    color:black;
+}
+
+
+#mini-text2
+{
+    width: 100%;
+    font-size:25px;
+    color:black;
+}
+
+#mini-text3
+{
+    color: cadetblue;
+    font-size:20px;
+}
+
+#end
+{
+    background: rgb(245,245,247);
+    width:100%;
+    height:32em;
+    margin-top: 5px;
+    float:left;
+    line-height:33px;
+    color: rgb(107,107,109);
+    font-size:15px;
+    white-space: nowrap;
+    word-break:break-all;
+    display: -webkit-box;
+    box-orient: vertical;
+    line-clamp: 3;
+    overflow: hidden;
+
+}
+
+#xuangou
+{
+    float:left;
+    margin-left: 25%;
+
+}
+#xuangou2
+{
+    float:left;
+    margin-left: 5%;
+
+
+
+}
+
+#xuangou3
+{
+    float:left;
+    margin-left: 5%;
+
+}
+
+#xuangou4
+{
+    float:left;
+    margin-left: 5%;
+
+}
+
+#xuangou5
+{
+    float:left;
+    margin-left: 5%;
+
+
+}
